@@ -19,7 +19,7 @@ body{
 a{
     font-size: 20px;
     text-decoration: none;
-    background-color: #577adb;
+    background-color: #4567B7;
     color: #fff;
     padding: 10px;
     margin-bottom: 50px;
@@ -44,7 +44,7 @@ a:hover{
     margin-top: 40px;
 }
 #currentTimeUTC{
-    background-color: #5F7ADB;
+    background-color: #4567B7;
     height: 40px;
     width: 30%;
     align-items: center;
@@ -53,7 +53,7 @@ a:hover{
     font-size: 20px;
 }
 #goals{
-    background-color: #577adb;
+    background-color: #4567B7;
     color: #a2b2ee;
 }
 .links{
